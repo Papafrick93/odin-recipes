@@ -1,0 +1,9 @@
+.header {
+    text-align: center;
+}
+
+ul .Ingredients {
+    background-color: rgb(190, 148, 95);
+    color: white;
+    font-size: 18px ;
+}
